@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "practica",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -L"
+  },
+  "author": "Debora",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "install": "^0.13.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20",
+    "npm": "^8.19.2",
+    "pg": "^8.8.0",
+    "sequelize": "^6.25.1"
+  }
+}
